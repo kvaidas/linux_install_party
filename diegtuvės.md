@@ -11,6 +11,6 @@ Kodėl jums turėtų būti įdomi Linux operacinė sistema?
 - Turėsite daugiau kontrolės savo kompiuteryje
 - Privatumo aspektu atviro kodo programinė įranga gerokai lenkia komercinius produktus
 
-Tad jei norite daugiau sužinoti apie Linux operacinę sistemą, ją įsidiegti savo kompiuteryje (ar tiesiog išbandyti nediegiant), kviečiame į Linux Diegtuves. Erdvę renginiui suteikė NKKM. Adresas Laisvės pr. 105 Spalio 26d. (sekmadienį) 14 val. Renginio trukmė 2-4 val. Renginys nemokamas, būtina registracija. Registruotis galite [paspaudę čia](https://docs.google.com/forms/d/e/1FAIpQLSdJoJxZoIIf1TpmbQ24hQC9Ew3tO0mvNcPzBIG4KwO5QYvBSQ/viewform).
+Tad jei norite daugiau sužinoti apie Linux operacinę sistemą, ją įsidiegti savo kompiuteryje (ar tiesiog išbandyti nediegiant), kviečiame į Linux Diegtuves. Erdvę renginiui suteikė [NKKM](https://www.nkkm.lt). Adresas Laisvės pr. 105 Spalio 26d. (sekmadienį) 14 val. Renginio trukmė 2-4 val. Renginys nemokamas, būtina registracija. Registruotis galite [paspaudę čia](https://docs.google.com/forms/d/e/1FAIpQLSdJoJxZoIIf1TpmbQ24hQC9Ew3tO0mvNcPzBIG4KwO5QYvBSQ/viewform).
 
 Jeigu turite kokių nors klausimų, susisiekite el. paštu vaidas@kascenas.lt.
