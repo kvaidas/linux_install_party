@@ -1,6 +1,6 @@
 Kviečiame į Linux Diegtuves
 
-Esame Linux ir atviro kodo naudotojų grupė ir norime pakviesti besidominčius Linux operacine sistema ją susidiegti.
+Esame Linux ir atviro kodo naudotojų grupė ir norime pakviesti besidominčius Linux operacine sistema ją susidiegti spalio 26d. Laisvės pr 105 Vilniuje, [NKKM](https://kompiuteriumokykla.lt/) patalpose. Pasiimk savo kompą ar laptą ir susimatom sekmadienį 14 val.
 
 Kodėl jums turėtų būti įdomi Linux operacinė sistema?
 - Jei naudojate Windows 10, gali būti, kad į jūsų kompiuterį negalėsite susidiegti Windows 11, o saugumo atnaujinimai netrukus jūsų Windows 10 nebepasieks
